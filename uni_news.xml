@@ -13,14 +13,6 @@
       <pubDate></pubDate>
     </item> 
     
-
-    <item>    
-      <!-- 게시기간 : 2025.9.05.까지 -->
-      <title>[대외홍보팀] 다시, 창작의 계절  2025 계원 2학기 시작</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item>
     <item>    
       <!-- 게시기간 : 2025.9.30.까지 -->
       <title>[입학지원팀] 2026학년도 입학전형 수시1차 모집원서 접수기간 9월30일(화)까지</title>
@@ -56,6 +48,13 @@
       <description></description>
       <pubDate></pubDate>
     </item>
+        <item>    
+      <!-- 게시기간 : 2025.9.19.까지 -->
+      <title>[대학일자리센터] 찾아가는 상담데이 9월 25일 (목) 파라다이스홀1층 로비</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item>
       <item>    
       <!-- 게시기간 : 2025.9.19.까지 -->
       <title>[실습지원팀] 2학기 실습실 안전교육 사용자교육 미이수자 대상 진행</title>
@@ -84,13 +83,6 @@
       <description></description>
       <pubDate></pubDate>
     </item>
-     <item>    
-      <!-- 게시기간 : 2025.9.5.까지 -->
-      <title>[기획전략팀] 2025 대학자율혁신계획수립 재학생 의견수렴 9월5일까지 발전계획, 인재상, 핵심역량 등 + 대학혁신사업과 관련된 혁신아이디어도 공모하고 있어요^^</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item>
     <item>    
       <!-- 게시기간 : 2025.9.12.까지 -->
       <title>[도서관] 도서관 자료실 운영시간 변경 평일 오전 8시30분부터 오후 5시 30분까지</title>
@@ -105,20 +97,6 @@
       <description></description>
       <pubDate></pubDate>
     </item>
-     <item>    
-      <!-- 게시기간 : 2025.9.5.까지 -->
-      <title>[재무팀] 2025-2학기 재학생 1차 추가등록기간 9월1일(월)부터 5일(금)까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item>
-    <item>    
-      <!-- 게시기간 : 2025.9.5.까지 -->
-      <title>[교무학사지원팀] 2025-2학기 학점인정신청 9월5일까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
     <item>    
       <!-- 게시기간 : 2025.9.9.까지 -->
       <title>[예비군대대] 기본훈련 2차 일정 9월9일(화) 8시간 훈련대상확인 후 참석바람(공결처리)</title>
@@ -168,6 +146,7 @@
   
   </channel>
 </rss>
+
 
 
 
