@@ -12,7 +12,16 @@
       <description></description>
       <pubDate></pubDate>
     </item> 
-    
+
+
+
+   <item>    
+      <!-- 게시기간 : 2025.10.5.까지 -->
+      <title>[학생지원팀] 하나트래블로그 ISIC 국제학생증 발급비지원 행사 10월5일까지</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
     <item>    
       <!-- 게시기간 : 2025.9.30.까지 -->
       <title>[입학지원팀] 2026학년도 입학전형 수시1차 모집원서 접수기간 9월30일(화)까지</title>
@@ -90,6 +99,7 @@
   
   </channel>
 </rss>
+
 
 
 
