@@ -14,7 +14,14 @@
     </item> 
 
 
-   <item>    
+      <item>    
+      <!-- 게시기간 : 2025.10.24.까지 -->
+      <title>[교무학사지원팀] 2025-2학기 중간고사 10월24일까지 1주간</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+    <item>    
       <!-- 게시기간 : 2025.11.08.까지 -->
       <title>[입학지원팀] 주목하시라~ 全우주 최초! 예술디자인분야 전문대학 연합입학박람회 11월8일 토요일 계원예술대학교 파라다이스홀에서 개최됩니다</title>
       <link></link>
@@ -22,26 +29,26 @@
       <pubDate></pubDate>
     </item> 
       <item>    
-      <!-- 게시기간 : 2025.10.15.까지 -->
-      <title>[기획전략팀] 재학생혁신아이디어공모전 대상'예술 디자인 기술 융합 5가지 프로젝트' 애니메이션과 김*연, 우수상'디지털크리에이터 아카데미, 학과융합 해커톤' 스마트프로덕트디자인과 이*경, '디지털크리에이터 마이크로디그리' 애니메이션과 최*은 수상</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-      <item>    
-      <!-- 게시기간 : 2025.10.15.까지 -->
-      <title>[취창업지원팀] 예술활동증명 발급자 장학금 지원 12월31일까지 상시접수</title>
+      <!-- 게시기간 : 2025.11.15.까지 -->
+      <title>[입학지원팀] 2026학년도 수시2차 전문대학 입학정보 박람회 11월14일~15일 연성대학교 연곡문화센터2층</title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
     </item> 
     <item>    
-      <!-- 게시기간 : 2025.10.15.까지 -->
-      <title>[대학일자리센터] 찾아가는 맞춤형 고용서비스 프로그램 운영 ~10월15일</title>
+      <!-- 게시기간 : 2025.10.24.까지 -->
+      <title>[보건실] 계원예대 비타민데이 10월24일(금)까지 보건실에서 참여선물도 드려요^^</title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
     </item>
+        <item>    
+      <!-- 게시기간 : 2025.11.5.까지 -->
+      <title>[도서관] 도서관운영시간이 평일 오전8시30분부터 저녁9시30분까지로 변경됩니다</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
     <item>    
             <!-- 게시기간 : 2025.10.23.까지 -->
       <title>[학생지원팀] 한국장학재단 2025-2학기 학자금대출신청 10월23일까지</title>
@@ -75,6 +82,7 @@
   
   </channel>
 </rss>
+
 
 
 
