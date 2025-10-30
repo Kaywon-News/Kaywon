@@ -21,7 +21,21 @@
       <description></description>
       <pubDate></pubDate>
     </item> 
-     <item>    
+       <item>    
+      <!-- 게시기간 : 2025.11.11.까지 -->
+      <title>[KUMA_계원예술대학교미술관] KUMA 미술관 기획전 '숲을 보는 법' 11월11일까지 전시</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+       <item>    
+      <!-- 게시기간 : 2025.11.8.까지 -->
+      <title>[AIPLUS문화예술기술융합 RISE사업단] 커뮤니티 아트 프로젝트 경기아트난장 11월8일 오전10시~오후5시 계원예술대학교 일대에서 개최됩니다</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item>  
+    <item>    
       <!-- 게시기간 : 2025.10.31.까지 -->
       <title>[교무학사지원팀] 중간강의평가 10월31일까지 학사행정종합정보시스템에서</title>
       <link></link>
@@ -117,6 +131,7 @@
   
   </channel>
 </rss>
+
 
 
 
