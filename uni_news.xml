@@ -58,7 +58,13 @@
       <description></description>
       <pubDate></pubDate>
     </item>  
-  
+  <item>    
+      <!-- 게시기간 : 2025.11.15.까지 -->
+      <title>[의왕시청] 의왕시립소년소녀합창단 제12회 정기연주회 "피노키오와 파란마녀" 11월15일(토)오후5시 계원예술대학교 우경아트홀</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item>  
      <item>    
       <!-- 게시기간 : 2025.11.12.까지 -->
       <title>[취창업지원팀] Field: Work Project 11월12일까지 모집 : 재학생누구나 참여가능</title>
@@ -135,6 +141,7 @@
   
   </channel>
 </rss>
+
 
 
 
