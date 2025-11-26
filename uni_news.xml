@@ -15,14 +15,7 @@
 
 
    
-      <item>    
-      <!-- 게시기간 : 2025.11.24.까지 -->
-      <title>[대외홍보팀] 제32회 계원조형예술제 11월 21일(금)부터 24일(월)까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-       <item>    
+   <item>    
       <!-- 게시기간 : 2025.11.28.까지 -->
       <title>[교무학사지원팀] 2026학년도1학기 전과신청 11월28일까지</title>
       <link></link>
@@ -43,13 +36,6 @@
       <description></description>
       <pubDate></pubDate>
     </item>     
-       <item>    
-      <!-- 게시기간 : 2025.11.22.까지 -->
-      <title>[대외홍보팀] "위드플리마켓" 11월22일 (토) 파라다이스홀 1층 로비에서</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
        <item>    
       <!-- 게시기간 : 2025.12.9.까지 -->
       <title>[교무학사지원팀] 동계계절학기 12월2일까지 1차신청, 12월9일까지 2차신청기간</title>
@@ -78,27 +64,6 @@
       <description></description>
       <pubDate></pubDate>
     </item> 
-     <item>    
-      <!-- 게시기간 : 2025.11.21.까지 -->
-      <title>[학생지원팀] 예술디자인이 함께하는 지역사회 봉사 아이디어 공모전 11월21일까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-     <item>    
-      <!-- 게시기간 : 2025.11.21.까지 -->
-      <title>[학생지원팀] 학생이 만드는 더 나은 대학생활 복지 아이디어 공모전 11월21일까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-     <item>    
-      <!-- 게시기간 : 2025.11.21.까지 -->
-      <title>[학생지원팀] 동아리와 함께하는 지역사회 나눔 실천 프로젝트 11월 21일까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item>
     <item>    
       <!-- 게시기간 : 2025.11.30.까지 -->
       <title>[도서관] 휴게 및 다용도실 공간조성 스터디룸 사용시 문의요망</title>
@@ -131,6 +96,7 @@
   
   </channel>
 </rss>
+
 
 
 
