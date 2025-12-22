@@ -36,6 +36,13 @@
       <pubDate></pubDate>
     </item> 
      <item>    
+      <!-- 게시기간 : 2025.12.31.까지 -->
+      <title>[인권센터] 2025학년도 인권공모전 12월 31일까지</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+     <item>    
       <!-- 게시기간 : 2026.2.13.까지 -->
       <title>[도서관] 도서자료 및 E-Book리더기 장기대출서비스를 진행하고 있어요~</title>
       <link></link>
@@ -74,6 +81,7 @@
   
   </channel>
 </rss>
+
 
 
 
