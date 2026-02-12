@@ -16,11 +16,20 @@
    
       <item>    
       <!-- 게시기간 : 2026.2.28.까지 -->
-      <title>[교무학사지원팀] 동계방학 학사민원응대 시간변경안내 : 평일 월~목, 오전9시~오후3시</title>
+      <title>여러분의 졸업과 새로운 출발을 응원합니다 - 계원예술대학교 - </title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
     </item> 
+    
+      <item>    
+      <!-- 게시기간 : 2026.2.25.까지 -->
+      <title>제32회 계원예술대학교 학위수여식 / 2월13일금 오후2시 / 우경아트홀 </title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+    
      <item>    
       <!-- 게시기간 : 2026.2.28.까지 -->
       <title>[학생지원팀] 장학 및 학생지원 상담 동계방학 시간안내 : 평일 월~목, 오전9시~오후3시</title>
@@ -28,6 +37,7 @@
       <description></description>
       <pubDate></pubDate>
     </item> 
+    
     <item>    
       <!-- 게시기간 : 2026.2.28.까지 -->
       <title>[도서관] 동계방학 개관시간변영 안내 : 평일 월~목, 오전9시~오후3시</title>
@@ -35,22 +45,7 @@
       <description></description>
       <pubDate></pubDate>
     </item>
-  
-     <item>    
-      <!-- 게시기간 : 2025.12.31.까지 -->
-      <title>[인권센터] 2025학년도 인권공모전 12월 31일까지</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-     <item>    
-      <!-- 게시기간 : 2026.2.13.까지 -->
-      <title>[도서관] 도서자료 및 E-Book리더기 장기대출서비스를 진행하고 있어요~</title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
-    
+      
     <item>    
       <!-- 게시기간 : 2026.1.31.까지 -->
       <title>[한국장학재단] 청년에게 필요한 정보는 통학로에서 확인하자!</title>
@@ -82,6 +77,7 @@
   
   </channel>
 </rss>
+
 
 
 
