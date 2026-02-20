@@ -48,7 +48,7 @@
     
     <item>    
       <!-- 게시기간 : 2026.2.28.까지 -->
-      <title>[도서관] 동계방학 개관시간변영 안내 : 평일 월~목, 오전9시~오후3시</title>
+      <title>[도서관] 동계방학 개관시간안내 : 평일 월~목, 오전9시~오후3시</title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
@@ -84,6 +84,7 @@
   
   </channel>
 </rss>
+
 
 
 
