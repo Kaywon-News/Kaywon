@@ -13,14 +13,6 @@
       <pubDate></pubDate>
     </item> 
 
-   
-      <item>    
-      <!-- 게시기간 : 2026.3.3.까지 -->
-      <title>"2026학년도 신입학한 여러분을 진심으로 환영합니다^^" 입학식 3월 3일 (화) 오전 11시, 오리엔테이션 오후 1시, 우경아트홀에서 진행됩니다 - 계원예술대학교 - </title>
-      <link></link>
-      <description></description>
-      <pubDate></pubDate>
-    </item> 
     
       <item>    
       <!-- 게시기간 : 2026.3.6.까지 -->
@@ -37,22 +29,39 @@
       <description></description>
       <pubDate></pubDate>
     </item> 
-    
-     <item>    
-      <!-- 게시기간 : 2026.3.4.까지 -->
-      <title>[대학교회] 2026학년도 개강예배 3월 4일 (수) 오후 5시 정보관 8층 X스페이스실</title>
+
+  <item>    
+      <!-- 게시기간 : 2026.3.15.까지 -->
+      <title>[계원디자인혁신융합대학사업단] 계원예술대학교 COSS 서포터즈 모집 3월15일까지</title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
-    </item> 
+  </item>   
     
   <item>    
-      <!-- 게시기간 : 2026.3.3.까지 -->
-      <title>[2026 신입생 교과목 선이수제안내] "경계를 허무는 사고" 이수완료시 입학 후 교양 1학점 인정 3월 3일 (화)까지</title>
+      <!-- 게시기간 : 2026.3.15.까지 -->
+      <title>[한국장학재단] 제17기 한국장학재단 대학생홍보대상 모집 3월 15일까지 한국장학재단 홈페이지 신청</title>
       <link></link>
       <description></description>
       <pubDate></pubDate>
     </item>   
+
+    <item>    
+      <!-- 게시기간 : 2026.3.31.까지 -->
+      <title>[아르케 교양학부] K-MOOC 교양교과목 수강하고 1학기당 1학점씩 재학중 4학점까지 인정받으세요!!!</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item>
+
+    <item>    
+      <!-- 게시기간 : 2026.3.31.까지 -->
+      <title>[실습지원팀] 목공제작실, 금속제작실, 사진실, 영상제작실, 창작공방, 판화실, KUMA 등 이용전에 반드시 안전교육과 이용자교육을 이수하셔야 합니다^^</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item>   
+
 
 
 
@@ -76,6 +85,7 @@
   
   </channel>
 </rss>
+
 
 
 
