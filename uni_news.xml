@@ -4,7 +4,7 @@
     <title>대학 소식</title>
     <link>https://www.kaywon.ac.kr/CmsHome/news_02.aspx</link>
     <description>계원예술대학교의 최신 소식</description>
-
+    
     <item>
       <!-- 계원예술대학교 키오스크 알림 -->
       <title>♦ 창조인의 특별한 장소, Creator의 세계 계원예술대학교 ♦ CREATIVE PLAYER KAYWON, ONLY ONE KAYWON ♦ Let's Play, Let's Enjoy ~~ ♦ 무더운 여름, 잠시 쉬어가요 2026 시원한 여름 방학!</title>
@@ -13,7 +13,42 @@
       <pubDate></pubDate>
     </item>   
 
-       <item>    
+
+    
+    
+         <item>    
+      <!-- 게시기간 : 2026.8.10.까지 -->
+      <title>[인사총무팀] 계원예술대학교 정규직원 채용 ~8월10일까지 이메일(insa@kaywon.ac.kr) 접수</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+
+     <item>    
+      <!-- 게시기간 : 2026.8.23.까지 -->
+      <title>[학생지원팀] 2학기 국가근로 희망근로지 학생신청기간 8월17일(월)~8월23일(일) 한국장학재단 앱에서 신청</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+    
+         <item>    
+      <!-- 게시기간 : 2026.8.10.까지 -->
+      <title>[디자인혁신융합대학사업단] 2학기 실감미디어 버추얼모션캡처 워크숍 전공 3학점 신청 8월10일까지</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+
+     <item>    
+      <!-- 게시기간 : 2026.8.10.까지 -->
+      <title>[학생지원팀] 서울인재대학장학금 장학생선발 8월10일까지 서울미래인재재단 홈페이지에서 신청(선발시 장학금 200만원 1회지원)</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+    </item> 
+    
+    <item>    
       <!-- 게시기간 : 2026.8.27.까지 -->
       <title>[대학일자리센터] 취준생 주목! 취업 준비 한방에 끝내자! 포트폴리오 온라인 특강 8월27일(목) 오후1시~</title>
       <link></link>
